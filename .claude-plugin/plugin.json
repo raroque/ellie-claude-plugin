@@ -1,0 +1,9 @@
+{
+  "name": "ellie",
+  "version": "1.0.0",
+  "description": "Plan and manage your Ellie tasks: review, search, create, update, complete, and organize tasks through your connected account.",
+  "author": {
+    "name": "Saint Yeti LLC"
+  },
+  "homepage": "https://www.ellieplanner.com"
+}
