@@ -1,0 +1,9 @@
+License scope
+
+The MIT license applies to the connector configuration and documentation in
+this repository. Brand artwork in .claude-plugin/icon.svg or
+.claude-plugin/icon.png is excluded; all rights to that artwork are reserved
+by Saint Yeti LLC. No trademark rights are granted.
+
+This repository does not include or license the private application source
+code or hosted services. Use of those services is subject to their own terms.

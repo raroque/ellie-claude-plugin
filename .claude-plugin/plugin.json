@@ -1,9 +1,13 @@
 {
   "name": "ellie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plan and manage your Ellie tasks: review, search, create, update, complete, and organize tasks through your connected account.",
   "author": {
     "name": "Saint Yeti LLC"
   },
-  "homepage": "https://www.ellieplanner.com"
+  "homepage": "https://www.ellieplanner.com",
+  "displayName": "Ellie",
+  "repository": "https://github.com/raroque/ellie-claude-plugin",
+  "privacyPolicyUrl": "https://www.ellieplanner.com/legal/privacy",
+  "license": "MIT"
 }

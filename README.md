@@ -62,3 +62,7 @@ For account help or a suspected security vulnerability, [contact Ellie](https://
 Run `claude plugin validate . --strict` from the package directory. Package validation checks the plugin structure; it does not establish that OAuth and every hosted tool have been tested end to end.
 
 Operated by Saint Yeti LLC. [Ellie](https://www.ellieplanner.com)
+
+## License
+
+The connector configuration and documentation are licensed under MIT. Brand artwork and trademarks are reserved. See [LICENSE](LICENSE) and [NOTICE](NOTICE) for scope. The private applications and hosted services are not included in this license.
